@@ -1,0 +1,35 @@
+{
+  "name": "gatsby-with-apollo",
+  "description": "Gatsby with Apollo Boost",
+  "version": "1.0.0",
+  "author": "Jason Lengstorf <jason@gatsbyjs.com>",
+  "dependencies": {
+    "apollo-boost": "^0.1.20",
+    "gatsby": "^2.0.19",
+    "gatsby-source-graphql": "^2.0.6",
+    "isomorphic-fetch": "^2.2.1",
+    "react": "^16.6.0",
+    "react-apollo": "^2.2.4",
+    "react-dom": "^16.6.0"
+  },
+  "keywords": [
+    "gatsby",
+    "apollo",
+    "apollo-boost"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "format": "prettier --write \"src/**/*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlengstorf/gatsby-with-apollo"
+  }
+}
