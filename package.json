@@ -8,7 +8,7 @@
     "apollo-boost": "^0.4.4",
     "gatsby": "^2.0.19",
     "gatsby-source-graphql": "^2.0.6",
-    "isomorphic-fetch": "^2.2.1",
+    "cross-fetch": "^3.0.4",
     "react": "^16.6.0",
     "react-dom": "^16.6.0"
   },
