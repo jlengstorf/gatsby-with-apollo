@@ -4,11 +4,10 @@
   "version": "1.0.0",
   "author": "Jason Lengstorf <jason@gatsbyjs.com>",
   "dependencies": {
-    "@apollo/react-hooks": "^3.0.1",
-    "apollo-boost": "^0.4.4",
-    "gatsby": "^2.0.19",
+    "@apollo/client": "^3.0.2",
+    "cross-fetch": "^3.0.5",
+    "gatsby": "^2.24.10",
     "gatsby-source-graphql": "^2.0.6",
-    "isomorphic-fetch": "^2.2.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0"
   },
